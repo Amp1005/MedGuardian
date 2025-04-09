@@ -1,7 +1,3 @@
-# 🩺 MedGuardian
+# 🏥 HealthCare Portal - MedGuardian
 
-**MedGuardian** is a full-stack healthcare system application built to manage medical data, appointments, and services efficiently. The project is structured with a separate `frontend` (likely using Vite + JS/TS) and `backend` services, providing a modular and scalable architecture for health tech solutions.
-
----
-
-
+A modern full-stack web application built to simplify and streamline patient login and registration for healthcare services. This portal offers a secure and intuitive user interface backed by robust authentication mechanisms.
